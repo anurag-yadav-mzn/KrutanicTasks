@@ -14,24 +14,24 @@ The outcomes of this project can be used to raise awareness and encourage timely
 Dataset Information ->
 The dataset consists of 309 entries with 16 columns. Each row represents an individual, and each column represents a specific feature or attribute of
 the individual.
-Column Information
-❖ GENDER: Gender of the individual (M: Male, F: Female)
-❖ AGE: Age of the individual
-❖ SMOKING: Smoking status (YES = 2, NO = 1)
-❖ YELLOW_FINGERS: Presence of yellow fingers, a symptom often
-associated with smoking (YES = 2, NO = 1)
-❖ ANXIETY: Presence of anxiety (YES = 2, NO = 1)
-❖ PEER_PRESSURE: Influence of peer pressure (YES = 2, NO = 1)
-❖ CHRONIC_DISEASE: Presence of chronic disease (YES = 2, NO = 1)
-❖ FATIGUE: Presence of fatigue (YES = 2, NO = 1)
-❖ ALLERGY: Presence of allergy (YES = 2, NO = 1)
-❖ WHEEZING: Presence of wheezing (YES = 2, NO = 1)
-❖ ALCOHOL_CONSUMING: Alcohol consumption status (YES = 2, NO = 1)
-❖ COUGHING: Presence of coughing (YES = 2, NO = 1)
-❖ SHORTNESS_OF_BREATH: Presence of shortness of breath (YES = 2, NO = 1)
-❖ SWALLOWING_DIFFICULTY: Presence of difficulty in swallowing (YES = 2, NO = 1)
-❖ CHEST_PAIN: Presence of chest pain (YES = 2, NO = 1)
-❖ LUNG_CANCER: Presence of lung cancer (YES, NO)
+Column Information<br/>
+❖ GENDER: Gender of the individual (M: Male, F: Female)<br/>
+❖ AGE: Age of the individual<br/>
+❖ SMOKING: Smoking status (YES = 2, NO = 1)<br/>
+❖ YELLOW_FINGERS: Presence of yellow fingers, a symptom often<br/>
+associated with smoking (YES = 2, NO = 1)<br/>
+❖ ANXIETY: Presence of anxiety (YES = 2, NO = 1)<br/>
+❖ PEER_PRESSURE: Influence of peer pressure (YES = 2, NO = 1)<br/>
+❖ CHRONIC_DISEASE: Presence of chronic disease (YES = 2, NO = 1)<br/>
+❖ FATIGUE: Presence of fatigue (YES = 2, NO = 1)<br/>
+❖ ALLERGY: Presence of allergy (YES = 2, NO = 1)<br/>
+❖ WHEEZING: Presence of wheezing (YES = 2, NO = 1)<br/>
+❖ ALCOHOL_CONSUMING: Alcohol consumption status (YES = 2, NO = 1)<br/>
+❖ COUGHING: Presence of coughing (YES = 2, NO = 1)<br/>
+❖ SHORTNESS_OF_BREATH: Presence of shortness of breath (YES = 2, NO = 1)<br/>
+❖ SWALLOWING_DIFFICULTY: Presence of difficulty in swallowing (YES = 2, NO = 1)<br/>
+❖ CHEST_PAIN: Presence of chest pain (YES = 2, NO = 1)<br/>
+❖ LUNG_CANCER: Presence of lung cancer (YES, NO)<br/>
 
 Model Comparison Report ->
 Create a report stating the performance of multiple models on this data and suggest the best model for production.
